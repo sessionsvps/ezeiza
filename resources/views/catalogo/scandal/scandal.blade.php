@@ -5,8 +5,8 @@
 @endsection
 
 @section('ruta_video_perfume')
-    {{ asset('img/scandal_view/scandal.webm') }}
-    {{-- https://www.jeanpaulgaultier.com/medias/sys_master/videos/h63/h57/9548169773086/9548169740318/9548169740318.webm --}}
+    {{-- {{ asset('img/scandal_view/scandal.webm') }} --}}
+    https://www.jeanpaulgaultier.com/medias/sys_master/videos/h63/h57/9548169773086/9548169740318/9548169740318.webm
 @endsection
 
 <!-- Puede que estos estilos varíen por la imagen que pongas (por las dimensiones, rotaciones) -->
